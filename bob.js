@@ -5,8 +5,8 @@ class bob{
             'friction':1.0,
             'density':1.0
         }
-        this.body = Bodies.circle(x, y, 40, options);
-        this.radius = 40*2
+        this.body = Bodies.circle(x, y, 21, options);
+        this.radius = 21*2
         //this.image = loadImage("sprites/base.png");
         World.add(world, this.body);
       }
