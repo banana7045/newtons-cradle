@@ -4,7 +4,7 @@ class constraint{
        bodyA:A,
        bodyB:B,
        pointB:{x:Bx,y:By},
-       length:30,
+       length:130,
        stiffness:0.4
        
      }   
